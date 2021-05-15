@@ -1,0 +1,45 @@
+body{
+    padding: 3%;
+}
+
+.MeuNome{
+    font-family: monospace;
+    text-align: center;
+}
+.descricao{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 5%;
+    right: 10px;
+    }
+body{
+    background-color: #7abff8;
+
+}
+.naodesisto{
+    font-weight: 500;
+    font-size: 15px;
+}
+.eletrotecnico{
+    font-weight: 500;
+    font-size: 20px;
+}
+.resiliente{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+
+.minha-foto{
+    float: left;
+    height: 190px;
+    padding: 10px;
+    background-color:teal
+}
+.imagem-caixa{
+    height: 300;
+    position: relative
+}
+ul li:nth-child(odd){
+    background-color: aqua;
+}
